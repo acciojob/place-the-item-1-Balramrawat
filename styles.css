@@ -1,2 +1,24 @@
+.head{
+            display: flex;
+            justify-content: space-between;
+            font-size:3rem;
+            
+        }
 
+        .one{
+            height: 100px;
+            width: 100px;
+            background-color: green;
+        }
+        .two{
+            height: 100px;
+            width: 100px;
+            background-color: brown;
+            
+        }
+        .three{
+            height: 100px;
+            width: 100px;
+            background-color: blue;
+        }
 /* Your CSS Code here. */
